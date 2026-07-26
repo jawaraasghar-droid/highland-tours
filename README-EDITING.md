@@ -62,9 +62,9 @@ The language switcher in the header swaps text using dictionary files in `assets
 
 **Known limitation, worth knowing:** only the English pages are set up to be found by Google search — the other 8 languages are a same-page, in-browser switch for visitors who are already on the site, not separately searchable pages. Making every language separately searchable is a bigger project (essentially 9× the pages) and wasn't part of this build. Also, the 4 guest reviews and the gallery photo captions are intentionally left in English only in every language, since translating individual guest quotes convincingly is a judgment call best made by a person, not automatically.
 
-## 10. Before you go live: update the placeholder domain
+## 10. The site's web address
 
-Every page currently references a placeholder web address, `https://highlandroutes.com` (in the SEO tags, `sitemap.xml`, and `robots.txt`). Once you have a real domain name, search-and-replace this placeholder across all files.
+The site is live at **https://highlandroutes.com**, and that address is written into the SEO tags of every page, plus `sitemap.xml` and `robots.txt`. If the domain ever changes, search-and-replace `https://highlandroutes.com` across all files — getting this wrong stops Google indexing the site.
 
 ## 11. Putting the site online (hosting)
 
