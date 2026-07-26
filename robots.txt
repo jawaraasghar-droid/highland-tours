@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.highlandroutes.example/sitemap.xml
+Sitemap: https://highlandroutes.com/sitemap.xml

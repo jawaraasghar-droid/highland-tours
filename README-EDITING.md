@@ -64,7 +64,7 @@ The language switcher in the header swaps text using dictionary files in `assets
 
 ## 10. Before you go live: update the placeholder domain
 
-Every page currently references a placeholder web address, `https://www.highlandroutes.example` (in the SEO tags, `sitemap.xml`, and `robots.txt`). Once you have a real domain name, search-and-replace this placeholder across all files.
+Every page currently references a placeholder web address, `https://highlandroutes.com` (in the SEO tags, `sitemap.xml`, and `robots.txt`). Once you have a real domain name, search-and-replace this placeholder across all files.
 
 ## 11. Putting the site online (hosting)
 

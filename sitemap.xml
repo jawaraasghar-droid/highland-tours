@@ -1,42 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://www.highlandroutes.example/index.html</loc>
+    <loc>https://highlandroutes.com/</loc>
+    <lastmod>2026-07-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://www.highlandroutes.example/rooms.html</loc>
+    <loc>https://highlandroutes.com/rooms.html</loc>
+    <lastmod>2026-07-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.highlandroutes.example/booking.html</loc>
+    <loc>https://highlandroutes.com/booking.html</loc>
+    <lastmod>2026-07-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.highlandroutes.example/gallery.html</loc>
+    <loc>https://highlandroutes.com/gallery.html</loc>
+    <lastmod>2026-07-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.highlandroutes.example/about.html</loc>
+    <loc>https://highlandroutes.com/about.html</loc>
+    <lastmod>2026-07-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.highlandroutes.example/facilities.html</loc>
+    <loc>https://highlandroutes.com/facilities.html</loc>
+    <lastmod>2026-07-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.highlandroutes.example/attractions.html</loc>
+    <loc>https://highlandroutes.com/attractions.html</loc>
+    <lastmod>2026-07-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.highlandroutes.example/contact.html</loc>
+    <loc>https://highlandroutes.com/contact.html</loc>
+    <lastmod>2026-07-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>

@@ -9,5 +9,5 @@ window.SITE_CONFIG = {
   emailReady: true,
   email: "ali.1338@icloud.com",
   location: "Skardu, Gilgit-Baltistan, Pakistan",
-  domainPlaceholder: "https://www.highlandroutes.example"
+  domain: "https://highlandroutes.com"
 };
